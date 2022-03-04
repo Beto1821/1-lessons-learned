@@ -34,27 +34,29 @@ aside {
 }
 
 .lado-direito {
-    width: 40%;
-    float: right;
-    position: relative;
-    line-height: 2;
-    margin: 10px;
-    padding: auto;
+  width: 40%;
+  float: right;
+  position: relative;
+  line-height: 2;
+  margin: 10px;
+  padding: auto;
 }
 
 .lado-esquerdo {
-    width: 40%;
-    float: left;
-    position: relative;
-    line-height: 2;
-    margin: 10px;
-    padding: auto;
+  width: 40%;
+  float: left;
+  position: relative;
+  line-height: 2;
+  margin: 10px;
+  padding: auto;
 }
 
 footer {
-    position: fixed;
-    bottom: 0%;
-    margin: 10px;
-    background-color: rgb(17, 16, 16);
-    color: white;
+  position: fixed;
+  bottom: 0%;
+  margin: 10px;
+  background-color: rgb(17, 16, 16);
+  color: white;
+  text-align: center;
+  width: 100%;
 }
