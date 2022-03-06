@@ -21,6 +21,16 @@ body {
   margin-top: 100px;
   padding: 1px;
   list-style: none;
+  background-color: #1d1e20;
+
+}
+
+.menu a {
+  font-size: 1.2rem;
+  font-family: Arial;
+  text-decoration: none;
+  color: white;
+  padding: 20px;
 }
 
 #menu ul li {
@@ -40,6 +50,7 @@ aside {
   line-height: 2;
   margin: 10px;
   padding: auto;
+  background-color: rgb(100, 211, 128);
 }
 
 .lado-esquerdo {
@@ -49,6 +60,7 @@ aside {
   line-height: 2;
   margin: 10px;
   padding: auto;
+  background-color: rgb(100, 211, 128);
 }
 
 footer {
